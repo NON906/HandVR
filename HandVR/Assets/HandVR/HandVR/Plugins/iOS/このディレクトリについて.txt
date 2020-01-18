@@ -1,0 +1,3 @@
+このディレクトリ内のファイルは容量の大きいものがあるため、git管理から除外しております。
+もし必要であれば、以下のURLからunitypackageファイルをダウンロードしてインポートしてください。
+https://github.com/NON906/HandVR/releases

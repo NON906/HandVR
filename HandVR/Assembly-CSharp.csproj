@@ -73,6 +73,7 @@
     <Compile Include="Assets\HandVR\HandVRSample\Scripts\BackButtonExit.cs" />
     <Compile Include="Assets\HandVR\HandVRSample\Scripts\License.cs" />
     <Compile Include="Assets\HandVR\HandVRSample\Scripts\Menu.cs" />
+    <None Include="Assets\HandVR\HandVR\Plugins\iOS\このディレクトリについて.txt" />
     <None Include="Assets\StreamingAssets\palm_detection_labelmap.txt" />
     <Reference Include="Unity.XR.Management">
       <HintPath>/Users/satoharu/Documents/Unity/HandVR/Projects/HandVR_github/HandVR/HandVR/Library/ScriptAssemblies/Unity.XR.Management.dll</HintPath>
