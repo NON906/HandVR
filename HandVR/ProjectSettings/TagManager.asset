@@ -23,12 +23,12 @@ TagManager:
   - 
   - 
   - 
-  - Model
+  - 
   - ARVRBackGround
   - ARVRCamera
   - Finger
-  - 
-  - 
+  - Ground
+  - ControlObject
   - 
   - 
   - 

@@ -135,7 +135,7 @@ public class HandVRMain : MonoBehaviour
 
         posVecArray[0] = (posVecArray[0] - 0.5f) * 0.15f * Screen.width / Screen.height;
         posVecArray[1] = (posVecArray[1] - 0.5f) * -0.15f;
-        posVecArray[2] = posVecArray[2] * 0.001f + 0.25f;
+        posVecArray[2] = posVecArray[2] * 0.001f + 0.5f; // posVecArray[2] * 0.001f + 0.25f;
 
         return posVecArray;
     }
