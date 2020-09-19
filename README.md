@@ -1,3 +1,7 @@
+※現在、更新予定はありません。[HandMR](https://github.com/NON906/HandMR)もスマホVRに対応しておりますので、こちらをご利用ください。
+
+---
+
 # HandVR
 
 6DoFやハンドトラッキングに対応した、スマホVR（cardboard）用のアセットおよびサンプルです。
